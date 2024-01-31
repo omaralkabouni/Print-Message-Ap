@@ -9,7 +9,7 @@ let meg = document.getElementById("meg");
 // Events
 btn.onclick = function(){
     // get value from input
-    let text = input.value;tio
+    let text = input.value;
     
     // if text empty show me error
    if(!text){
